@@ -1,0 +1,22 @@
+{
+    "db_host": "127.0.0.1",
+    "db_password": "",
+    "db_user": "root",
+    "db_database": "transcend_simulator_test",
+    "db_port": "3308",
+
+    "server_port": 5000,
+
+    "sc2_timer1": 20,
+    "sc2_timer2": 15,
+    "sc3_transformation_timer": 1,
+    "sc3A_message": "Your customer is embarking on a significant program that will transform some aspect of their business and operations.  While you continue running your existing programs, how will you approach this opportunity to extend your partnership with the customer?",
+    "sc3_message": "Congratulations!  You have been awarded an RFP and now have to start transition. RMG has seeded your team with a set of resources but not quite as many as required to deliver a successful transition and build a great customer relationship.  Time to step out of the simulator and into real life!  Now is the time to demonstrate those negotiation skills.",
+    "tmp": "",
+
+    "jwt_secret": "mysecrettoken",
+    "token_expire_time" : 43200
+
+
+
+}

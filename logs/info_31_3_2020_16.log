@@ -1,0 +1,7 @@
+{"message":"Transcend Simulator Server started on port 5000","level":"info","timestamp":"2020-03-31T11:02:22.759Z"}
+{"level":"info","message":"/getAllTeams","timestamp":"2020-03-31T11:03:04.728Z"}
+{"message":"Transcend Simulator Server started on port 5000","level":"info","timestamp":"2020-03-31T11:07:39.066Z"}
+{"message":"Transcend Simulator Server started on port 5000","level":"info","timestamp":"2020-03-31T11:09:05.054Z"}
+{"level":"info","message":"/login called by  1324821 with role 1.","timestamp":"2020-03-31T11:12:32.349Z"}
+{"level":"info","message":"/login called by  1324821 with role 1.","timestamp":"2020-03-31T11:12:39.743Z"}
+{"level":"info","message":"/resetPassword called by  1324821 with role 1.","timestamp":"2020-03-31T11:12:46.819Z"}
